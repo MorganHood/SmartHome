@@ -1,0 +1,21 @@
+﻿body {
+  font-family:Arial,Helvettica,sans-serif;
+  background-color:#E0FFFF;
+}
+
+header {
+  width:80%;
+  background-color:white;
+  color:white;
+  margin-right:auto;
+  margin-left:auto;
+  padding:10px;
+  overflow:hidden;
+}
+
+h1 {
+  font-size:2em;
+  margin:0;
+  padding:0;
+  padding-top:10px;
+}

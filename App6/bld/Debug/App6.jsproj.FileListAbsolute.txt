@@ -1,0 +1,32 @@
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\ReverseMap\resources.pri
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\AppxManifest.xml
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bin\Debug\App6.build.appxrecipe
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\ResourceHandlingTask.state
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\priconfig.xml
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\priconfig.xml.intermediate
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\layout.resfiles
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\layout.resfiles.intermediate
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\resources.resfiles
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\resources.resfiles.intermediate
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\pri.resfiles
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\pri.resfiles.intermediate
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\qualifiers.txt
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\qualifiers.txt.intermediate
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\Users\monicadelaine\Documents\Visual Studio 2015\Projects\App6\App6\bld\Debug\ProjectArchitectures.txt
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bin\Debug\ReverseMap\resources.pri
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bin\Debug\AppxManifest.xml
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bin\Debug\App6.build.appxrecipe
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\ResourceHandlingTask.state
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\priconfig.xml
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\priconfig.xml.intermediate
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\layout.resfiles
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\layout.resfiles.intermediate
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\resources.resfiles
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\resources.resfiles.intermediate
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\pri.resfiles
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\pri.resfiles.intermediate
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\qualifiers.txt
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\qualifiers.txt.intermediate
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\ProjectArchitectures.txt

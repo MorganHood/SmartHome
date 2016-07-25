@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-BRAUP4E</Machine>
+    <WindowsUser>RoboticsLab3</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2df04f0f-c359-4d1a-866c-949c4b49896d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FF97ABFCB0B839AFD0FF3D09ED11CC30631D517B721E638BCC0F4E1843EB8056</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2df04f0f-c359-4d1a-866c-949c4b49896d_1.0.0.0_neutral__pfmemabwr8msa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2df04f0f-c359-4d1a-866c-949c4b49896d_pfmemabwr8msa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2df04f0f-c359-4d1a-866c-949c4b49896d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=monicadelaine</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:28:18.185</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-07-11T19:19:14.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2016-06-27T15:22:31.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:22:31.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:22:31.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:22:31.695</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:22:31.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:22:31.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-27T15:22:31.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\js\AudioCapturePermissions.js">
+      <PackagePath>js\AudioCapturePermissions.js</PackagePath>
+      <Modified>2016-06-27T15:22:31.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-07-15T18:50:36.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-06-27T15:22:33.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-06-27T15:22:33.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-06-27T16:02:34.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-06-27T15:22:31.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-06-27T15:22:31.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\RoboticsLab3\Downloads\sample\App6\App6\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-27T15:28:17.453</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
